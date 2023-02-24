@@ -1,0 +1,1 @@
+Car Plate Detection with HOG(Histogram of Oriented Gradients) and SVM(Support Vector Machine).
